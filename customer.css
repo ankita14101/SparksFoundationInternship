@@ -1,0 +1,65 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#nav-bar
+{
+	position: sticky;
+	top:0;
+	float: right;
+        background-color:black;
+}
+.navbar
+{
+	padding: 0 !important;
+        background-color:black;
+}
+
+.navbar-nav li
+{
+	padding: 0 10px;
+        
+}
+.navbar-nav li a
+{
+font-weight:600;
+float:right;
+text-align:left;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    
+    
+}
+
+.nav-link{
+    float: right;
+    
+}
+
+.nav-link:hover{
+    background-color: grey;
+}
+/* navbar css ends here  */
+#main
+{
+	text-align: center;
+
+}
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    
+    margin-left: 5px;
+    padding: 0.75rem;
+    
+}
+
+.btn-info:hover{
+   
+}
